@@ -33,7 +33,7 @@ A Python-based visualizer that graphically demonstrates how different sorting al
 
 > Below is a sample visualization (Bubble Sort):
 
-![Visualizer Screenshot](./895d00b4-a701-4009-bbc6-4e0f9db4f13d.png)
+![Visualizer Screenshot](.https://drive.google.com/file/d/126uZtJeRf35goFpI10PfR0frneWoNOV1/view?usp=sharing)
 
 ---
 
